@@ -1,1 +1,1 @@
-# Finance_daily-board
+# Finance_DailyBoard
